@@ -32,4 +32,24 @@
     <br/><br/>
     <img src="https://i.ibb.co/p44tnyS/photo-2022-08-29-23-04-39.jpg" alt="Daily rewards" width="3000"/>
   <h1/>
+  <h3>
+    We give out daily rewards to both new users and those who have been with us for a long time.
+  <h3/>
+  <h1>
+    Kudx's expands into Asia market
+    <br/><br/>
+    <img src="https://i.ibb.co/TqYHGHS/photo-2022-08-29-23-06-29.jpg" alt="Asia market" width="3000"/>
+  <h1/>
+  <h3>
+    We cooperate a lot with Asia market!
+  <h3/>
+  <h1>  
+    Referral system Kudx
+    <br/><br/>
+    <img src="https://i.ibb.co/7v8sjZk/photo-2022-08-29-23-08-15.jpg" alt="Asia market" width="3000"/>
+  <h1/>
+  <h3> 
+    Refer Friends. Earn Crypto Together.<br>
+    Earn up to 40% commission on every trade.
+  <h3/>
 <div/>
