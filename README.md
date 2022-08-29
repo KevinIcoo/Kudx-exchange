@@ -21,6 +21,7 @@
   <h3/>
   <h1>
     Copy trading
+    <br/><br/>
     <img src="https://i.ibb.co/W68hy3D/photo-2022-08-29-22-59-45.jpg" alt="Kudx" width="3000"/>
   <h1/>
 <div/>
