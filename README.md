@@ -8,6 +8,9 @@
   Kudx is a blockchain system and infrastructure provider for the cryptocurrency industry with a range of products including digital asset trading education, research and data, philanthropy, investment and incubation, decentralization and infrastructure solutions, and more.
 </h3>
 <h3 align="center" >Website:</h3>
-<h3 align="center" color="#f00">Kudx.com</h3>
+<h3 align="center" color="#f00"><span style="color: red">Kudx.com</span></h3>
 <h3 align="center">Register Code:</h3>
 <h3 align="center" color="#f00">NEW2022</h3>
+
+<br/><br/>
+
