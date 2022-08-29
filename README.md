@@ -70,4 +70,18 @@
     <br><br>
     https://steemit.com/@kudx
   <h3/>
+  <h1>
+    !Contact Us
+  <h1/>
+  <h3>
+    You can join communities on different social networks. To find out what's going on, meet people, discuss, learn new things, share experiences.
+    <br><br>
+    Here are a few places worth visiting
+    <br><br>
+    Support Service：support@kudx.com
+    <br><br>
+    Token Listings：listing@kudx.com
+    <br><br>
+    Business Offers：business@kudx.com
+  <h3/>
 <div/>
