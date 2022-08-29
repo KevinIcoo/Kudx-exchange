@@ -24,4 +24,7 @@
     <br/><br/>
     <img src="https://i.ibb.co/W68hy3D/photo-2022-08-29-22-59-45.jpg" alt="Kudx" width="3000"/>
   <h1/>
+  <h3>
+    Over the past decade, and especially over the past few years, the terms "retail trader" or "retail investor" have gained currency and changed the financial world. <br> And we are only at the very beginning of the global revolution. Given this, the ability to copy trades of successful traders to your account (copy trades) has become a real trend among retail traders and investors. Copy trades of experienced traders and get the same results.
+  <h3/>
 <div/>
