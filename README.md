@@ -9,7 +9,7 @@
 </h3>
 
 <h3 align="center" >Website: Kudx.com</h3>
-<h3 align="center">Register Code: NEW2022</h3>
+<h3 align="center">Register Code: NEW2022<br/><br/></h3>
 
-<br/><br/>
+
 
