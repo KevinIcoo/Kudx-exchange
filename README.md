@@ -52,4 +52,7 @@
     Refer Friends. Earn Crypto Together.<br>
     Earn up to 40% commission on every trade.
   <h3/>
+  <h1>KudX Privacy Policy<h1/>
+  <h3>
+    1.The purpose of this Privacy Policy is to inform you and provide<br>you with an understanding of how KU DIGITAL SOLUTIONS LIMITED (“KudX” or “we” or “us” or “our”) handles, collects, uses, discloses, and deals with personal data about you (“User”) that you give us,<br>that we receive through third parties or that is in our possession.<br>Further, this Privacy Policy governs the manner in which KudX collects, uses, maintains, and/or discloses personal data collected from Users of the KudX website (“Site”).<br>To provide you with our Services, we might need (and sometimes obliged by the law) to collect your personal data.<br>2.We take our responsibilities under the Constitution of the United States of Amerie seriously. We also recognize the importance of the personal data<br>you have entrusted to us and believe that it is our responsibility to properly manage, protect and process your personal data.<br>3.This privacy policy applies to the Site and all Services offered by KudX.
 <div/>
