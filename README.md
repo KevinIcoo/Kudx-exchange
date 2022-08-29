@@ -1,7 +1,7 @@
 <div align="center">
 <h1>
   <img src="https://i.ibb.co/Y8P5vhT/kudx.png" alt="Kudx" width="300"/>
-  <br/><br/>
+  <br><br>
   Kudx.com
 </h1>
 
