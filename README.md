@@ -9,9 +9,8 @@
   <br>Website: Kudx.com<br>Register Code: NEW2022
 </h3>
 
-<br/><br/>
-
 <h1 align="center">
+  <br>
   One Click to buy crypto with Mercuryo
   <img src="https://i.ibb.co/BccY8WB/Screenshot-7.png" alt="Kudx" width="300"/>
 </h1>
