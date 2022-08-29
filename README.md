@@ -20,6 +20,7 @@
     One Click to Buy Coins: Never been easier to buy coins<br>Choose the fiat you want to pay for, the currency you want to buy, and the third-party service provider, and click the buy button<br>Verify your identity information on Kudx and third-party service provider websites, and complete the payment<br>Check the coins you bought in Kudx wallet coin financial record, and check Order details in the website of service provider.
   <h3/>
   <h1>
+    Copy trading
     <img src="https://i.ibb.co/W68hy3D/photo-2022-08-29-22-59-45.jpg" alt="Kudx" width="3000"/>
   <h1/>
 <div/>
