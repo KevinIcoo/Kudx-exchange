@@ -13,6 +13,6 @@
 <h1>
   <br>
   One Click to buy crypto with Mercuryo
-  <img src="https://i.ibb.co/BccY8WB/Screenshot-7.png" alt="Kudx" width="300"/>
+  <img src="https://i.ibb.co/BccY8WB/Screenshot-7.png" alt="Kudx" width="3000"/>
 </h1>
 <div/>
